@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="img\geom.jpg" />
+    <None Remove="img\math.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="img\geom.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="img\math.png" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,20 @@
+﻿<Window x:Class="WpfApp7.var5"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Вариант 5" Height="300" Width="400">
+    <Grid>
+        <Menu x:Name="menu" HorizontalAlignment="Left" Height="18" VerticalAlignment="Top" Width="400">
+            <MenuItem Header="Input" Name="miInput" Click="miInput_Click"/>
+            <MenuItem Header="Calc" Name="miCalc" Click="miCalc_Click"/>
+            <MenuItem Header="About" Name="about" Click="about_Click"/>
+            <MenuItem Header="Вариант 4" Name="var4" Click="var4_Click"/>
+        </Menu>
+
+        <Canvas x:Name="canvas" VerticalAlignment="Stretch" HorizontalAlignment="Stretch" Margin="0,18,0,0">
+            <Canvas.Background>
+                <ImageBrush ImageSource="/img/math.png"  Stretch="UniformToFill"/>
+
+            </Canvas.Background>
+        </Canvas>
+    </Grid>
+</Window>
