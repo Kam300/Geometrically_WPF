@@ -22,7 +22,8 @@ namespace WpfApp7
             if (!SummCheckBox.IsChecked.GetValueOrDefault(false) &&
                 !LeastMultipleCheckBox.IsChecked.GetValueOrDefault(false))
             {
-                MessageBox.Show("Пожалуйста, выберите хотя бы один флажок.", "Ошибка");
+                MessageBox.Show("Пожалуйста, выберите хотя бы один флажок.", "Ошибка",
+                                MessageBoxButton.OK, MessageBoxImage.Error);
                 return;
             }
 
@@ -45,7 +46,8 @@ namespace WpfApp7
             }
             else
             {
-                MessageBox.Show("Пожалуйста, введите корректные числа.", "Ошибка");
+                MessageBox.Show("Пожалуйста, введите корректные числа.", "Ошибка",
+                                MessageBoxButton.OK, MessageBoxImage.Error);
             }
         }
     }

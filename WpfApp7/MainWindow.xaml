@@ -44,6 +44,6 @@
             </Canvas.Background>
         </Canvas>
 
-        <Label Grid.Row="2" Margin="25,0,10,8"  FontSize="22" Grid.ColumnSpan="3" Grid.Column="1" FontWeight="Normal" FontStyle="Italic" HorizontalContentAlignment="Center" Foreground="White" >Вариант 4</Label>
+        <Label Name="name" Grid.Row="2" Margin="25,0,10,8"  FontSize="22" Grid.ColumnSpan="3" Grid.Column="1" FontWeight="Normal" FontStyle="Italic" HorizontalContentAlignment="Center" Foreground="White" >Вариант 4</Label>
     </Grid>
 </Window>

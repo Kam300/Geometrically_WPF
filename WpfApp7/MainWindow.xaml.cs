@@ -36,18 +36,26 @@ namespace WpfApp7
             {
                 double area = Math.PI * Math.Pow(radius, 2);
                 double length = 2 * Math.PI * radius;
-                MessageBox.Show($"Область: {area}\nДлина: {length}", "Расчеты");
+                MessageBox.Show($"Область: {area}\nДлина: {length}", "Расчеты",MessageBoxButton.OK, MessageBoxImage.Information);
             }
             else
             {
-                MessageBox.Show("Пожалуйста, сначала введите допустимый радиус", "Ошибка");
+                MessageBox.Show("Пожалуйста, сначала введите допустимый радиус", "Ошибка",
+                                MessageBoxButton.OK, MessageBoxImage.Error);
             }
         }
 
         private void miDraw_Click(object sender, RoutedEventArgs e)
         {
+           
             if (radius > 0 && radius * 2 <= canvas.ActualWidth && radius * 2 <= canvas.ActualHeight)
             {
+                if (name != null)
+                {
+                    Grid parentGrid = (Grid)name.Parent; // Получаем родительский контейнер
+                    parentGrid.Children.Remove(name); // Удаляем Label
+                }
+
                 canvas.Children.Clear();
                 Ellipse circle = new Ellipse
                 {
@@ -62,7 +70,8 @@ namespace WpfApp7
             }
             else
             {
-                MessageBox.Show("Отрисовка невозможна: слишком большой радиус", "Ошибка");
+                MessageBox.Show("Отрисовка невозможна: слишком большой радиус", "Ошибка",
+                                MessageBoxButton.OK, MessageBoxImage.Error);
             }
         }
 

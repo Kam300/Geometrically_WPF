@@ -100,7 +100,7 @@ namespace WpfApp7 {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/WpfApp7;component/var5.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/WpfApp7;V1.0.0.0;component/var5.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\var5.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

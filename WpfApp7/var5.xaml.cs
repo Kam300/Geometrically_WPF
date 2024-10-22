@@ -35,7 +35,8 @@ namespace WpfApp7
         {
             if (calculateSum == false && calculateLeastMultiple == false)
             {
-                MessageBox.Show("Сначала введите значения.", "Ошибка");
+                MessageBox.Show("Сначала введите значения.", "Ошибка",
+                                MessageBoxButton.OK, MessageBoxImage.Error);
                 return;
             }
 
@@ -62,13 +63,13 @@ namespace WpfApp7
                 resultMessage += $"Наименьшее общее кратное: {resultLeastMultiple}\n";
             }
 
-            MessageBox.Show(resultMessage, "Результаты");
+            MessageBox.Show(resultMessage, "Результаты",MessageBoxButton.OK, MessageBoxImage.Information);
         }
 
 
         private void about_Click(object sender, RoutedEventArgs e)
         {
-            MessageBox.Show("Разработчик: Гарипов Камиль", "About");
+            MessageBox.Show("Разработчик: Гарипов Камиль", "About", MessageBoxButton.OK, MessageBoxImage.Information);
         }
 
         private void var4_Click(object sender, RoutedEventArgs e)

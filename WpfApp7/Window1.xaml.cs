@@ -22,7 +22,8 @@ namespace WpfApp7
             }
             else
             {
-                MessageBox.Show("Пожалуйста, введите допустимый радиус.", "Ошибка");
+                MessageBox.Show("Пожалуйста, введите допустимый радиус.", "Ошибка",
+                                MessageBoxButton.OK, MessageBoxImage.Error);
             }
         }
     }
