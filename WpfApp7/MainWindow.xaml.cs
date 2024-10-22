@@ -54,7 +54,7 @@ namespace WpfApp7
                     Width = radius * 2,
                     Height = radius * 2,
                     Stroke = Brushes.Black,
-                    Fill = Brushes.Transparent
+                    Fill = Brushes.White
                 };
                 Canvas.SetLeft(circle, (canvas.ActualWidth - circle.Width) / 2);
                 Canvas.SetTop(circle, (canvas.ActualHeight - circle.Height) / 2);

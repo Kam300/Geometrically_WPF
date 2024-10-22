@@ -49,7 +49,7 @@ namespace WpfApp7
 
             if (calculateLeastMultiple)
             {
-                resultLeastMultiple = LeastCommonMultiple(number1, number2);
+                resultLeastMultiple = LeastCommonMultipleOfThree(number1, number2, number3);
             }
 
             string resultMessage = "";
@@ -65,6 +65,7 @@ namespace WpfApp7
             MessageBox.Show(resultMessage, "Результаты");
         }
 
+
         private void about_Click(object sender, RoutedEventArgs e)
         {
             MessageBox.Show("Разработчик: Гарипов Камиль", "About");
@@ -72,7 +73,7 @@ namespace WpfApp7
 
         private void var4_Click(object sender, RoutedEventArgs e)
         {
-            // Если MainWindow существует, иначе это удалите
+           
             MainWindow inputWindow = new MainWindow();
             inputWindow.Show();
             this.Close();
@@ -80,9 +81,11 @@ namespace WpfApp7
 
         private double LeastCommonMultiple(double a, double b)
         {
+            if (a == 0 || b == 0) // Проверка на ноль
+                return 0; // НОК для нуля обычно рассматривается как 0
+
             return Math.Abs(a * b) / GCD(a, b);
         }
-
         private double GCD(double a, double b)
         {
             while (b != 0)
@@ -93,5 +96,12 @@ namespace WpfApp7
             }
             return a;
         }
+        public double LeastCommonMultipleOfThree(double a, double b, double c)
+        {
+            return LeastCommonMultiple(LeastCommonMultiple(a, b), c);
+        }
+
+
+
     }
 }

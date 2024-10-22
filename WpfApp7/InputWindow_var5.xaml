@@ -1,7 +1,7 @@
 ﻿<Window x:Class="WpfApp7.InputWindow_var5"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-        Title="Input Numbers" Height="250" Width="300">
+        Title="Input Numbers" Height="300" Width="300">
     <Grid Margin="10">
         <Grid.RowDefinitions>
             <RowDefinition Height="Auto"/>
@@ -37,6 +37,6 @@
             </StackPanel>
         </GroupBox>
 
-        <Button Content="OK" Grid.Row="5" Grid.Column="1" HorizontalAlignment="Right" Width="70" Click="OkButton_Click"/>
+        <Button Content="OK" Grid.Row="4" Grid.Column="1" HorizontalAlignment="Right" Width="70" Click="OkButton_Click"/>
     </Grid>
 </Window>
