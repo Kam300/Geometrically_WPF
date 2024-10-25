@@ -23,3 +23,22 @@ C:\Users\student\Desktop\Новая папка (16)\Geometrically_WPF\WpfApp7\ob
 C:\Users\student\Desktop\Новая папка (16)\Geometrically_WPF\WpfApp7\obj\Debug\netcoreapp3.1\WpfApp7.dll
 C:\Users\student\Desktop\Новая папка (16)\Geometrically_WPF\WpfApp7\obj\Debug\netcoreapp3.1\WpfApp7.pdb
 C:\Users\student\Desktop\Новая папка (16)\Geometrically_WPF\WpfApp7\obj\Debug\netcoreapp3.1\WpfApp7.genruntimeconfig.cache
+C:\Users\RobotComp.ru\source\repos\WpfApp5\Geometrically_WPF\WpfApp7\obj\Debug\netcoreapp3.1\WpfApp7.csproj.AssemblyReference.cache
+C:\Users\RobotComp.ru\source\repos\WpfApp5\Geometrically_WPF\WpfApp7\obj\Debug\netcoreapp3.1\InputWindow_var5.baml
+C:\Users\RobotComp.ru\source\repos\WpfApp5\Geometrically_WPF\WpfApp7\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\RobotComp.ru\source\repos\WpfApp5\Geometrically_WPF\WpfApp7\obj\Debug\netcoreapp3.1\var5.baml
+C:\Users\RobotComp.ru\source\repos\WpfApp5\Geometrically_WPF\WpfApp7\obj\Debug\netcoreapp3.1\Window1.baml
+C:\Users\RobotComp.ru\source\repos\WpfApp5\Geometrically_WPF\WpfApp7\obj\Debug\netcoreapp3.1\InputWindow_var5.g.cs
+C:\Users\RobotComp.ru\source\repos\WpfApp5\Geometrically_WPF\WpfApp7\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\RobotComp.ru\source\repos\WpfApp5\Geometrically_WPF\WpfApp7\obj\Debug\netcoreapp3.1\var5.g.cs
+C:\Users\RobotComp.ru\source\repos\WpfApp5\Geometrically_WPF\WpfApp7\obj\Debug\netcoreapp3.1\Window1.g.cs
+C:\Users\RobotComp.ru\source\repos\WpfApp5\Geometrically_WPF\WpfApp7\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\RobotComp.ru\source\repos\WpfApp5\Geometrically_WPF\WpfApp7\obj\Debug\netcoreapp3.1\WpfApp7_MarkupCompile.cache
+C:\Users\RobotComp.ru\source\repos\WpfApp5\Geometrically_WPF\WpfApp7\obj\Debug\netcoreapp3.1\WpfApp7.g.resources
+C:\Users\RobotComp.ru\source\repos\WpfApp5\Geometrically_WPF\WpfApp7\obj\Debug\netcoreapp3.1\WpfApp7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RobotComp.ru\source\repos\WpfApp5\Geometrically_WPF\WpfApp7\obj\Debug\netcoreapp3.1\WpfApp7.AssemblyInfoInputs.cache
+C:\Users\RobotComp.ru\source\repos\WpfApp5\Geometrically_WPF\WpfApp7\obj\Debug\netcoreapp3.1\WpfApp7.AssemblyInfo.cs
+C:\Users\RobotComp.ru\source\repos\WpfApp5\Geometrically_WPF\WpfApp7\obj\Debug\netcoreapp3.1\WpfApp7.csproj.CoreCompileInputs.cache
+C:\Users\RobotComp.ru\source\repos\WpfApp5\Geometrically_WPF\WpfApp7\obj\Debug\netcoreapp3.1\WpfApp7.sourcelink.json
+C:\Users\RobotComp.ru\source\repos\WpfApp5\Geometrically_WPF\WpfApp7\obj\Debug\netcoreapp3.1\WpfApp7.dll
+C:\Users\RobotComp.ru\source\repos\WpfApp5\Geometrically_WPF\WpfApp7\obj\Debug\netcoreapp3.1\WpfApp7.pdb

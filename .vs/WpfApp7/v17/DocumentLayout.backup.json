@@ -1,48 +1,59 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\RobotComp.ru\\source\\repos\\WpfApp7\\",
+  "WorkspaceRootPath": "C:\\Users\\RobotComp.ru\\source\\repos\\WpfApp5\\Geometrically_WPF\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EFC2FFEC-D449-405F-871F-C047125CAC05}|WpfApp7\\WpfApp7.csproj|c:\\users\\robotcomp.ru\\source\\repos\\wpfapp7\\wpfapp7\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{EFC2FFEC-D449-405F-871F-C047125CAC05}|WpfApp7\\WpfApp7.csproj|c:\\users\\robotcomp.ru\\source\\repos\\wpfapp5\\geometrically_wpf\\wpfapp7\\inputwindow_var5.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EFC2FFEC-D449-405F-871F-C047125CAC05}|WpfApp7\\WpfApp7.csproj|solutionrelative:wpfapp7\\inputwindow_var5.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFC2FFEC-D449-405F-871F-C047125CAC05}|WpfApp7\\WpfApp7.csproj|c:\\users\\robotcomp.ru\\source\\repos\\wpfapp5\\geometrically_wpf\\wpfapp7\\inputwindow_var5.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFC2FFEC-D449-405F-871F-C047125CAC05}|WpfApp7\\WpfApp7.csproj|solutionrelative:wpfapp7\\inputwindow_var5.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\RobotComp.ru\\source\\repos\\WpfApp5\\Geometrically_WPF\\WpfApp7\\obj\\Debug\\netcoreapp3.1\\WpfApp7.GlobalUsings.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WpfApp7\\obj\\Debug\\netcoreapp3.1\\WpfApp7.GlobalUsings.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFC2FFEC-D449-405F-871F-C047125CAC05}|WpfApp7\\WpfApp7.csproj|c:\\users\\robotcomp.ru\\source\\repos\\wpfapp5\\geometrically_wpf\\wpfapp7\\var5.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFC2FFEC-D449-405F-871F-C047125CAC05}|WpfApp7\\WpfApp7.csproj|solutionrelative:wpfapp7\\var5.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFC2FFEC-D449-405F-871F-C047125CAC05}|WpfApp7\\WpfApp7.csproj|c:\\users\\robotcomp.ru\\source\\repos\\wpfapp5\\geometrically_wpf\\wpfapp7\\var5.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EFC2FFEC-D449-405F-871F-C047125CAC05}|WpfApp7\\WpfApp7.csproj|solutionrelative:wpfapp7\\var5.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFC2FFEC-D449-405F-871F-C047125CAC05}|WpfApp7\\WpfApp7.csproj|c:\\users\\robotcomp.ru\\source\\repos\\wpfapp5\\geometrically_wpf\\wpfapp7\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFC2FFEC-D449-405F-871F-C047125CAC05}|WpfApp7\\WpfApp7.csproj|solutionrelative:wpfapp7\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFC2FFEC-D449-405F-871F-C047125CAC05}|WpfApp7\\WpfApp7.csproj|c:\\users\\robotcomp.ru\\source\\repos\\wpfapp5\\geometrically_wpf\\wpfapp7\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{EFC2FFEC-D449-405F-871F-C047125CAC05}|WpfApp7\\WpfApp7.csproj|solutionrelative:wpfapp7\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.403\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFC2FFEC-D449-405F-871F-C047125CAC05}|WpfApp7\\WpfApp7.csproj|c:\\users\\robotcomp.ru\\source\\repos\\wpfapp5\\geometrically_wpf\\wpfapp7\\wpfapp7.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EFC2FFEC-D449-405F-871F-C047125CAC05}|WpfApp7\\WpfApp7.csproj|solutionrelative:wpfapp7\\wpfapp7.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFC2FFEC-D449-405F-871F-C047125CAC05}|WpfApp7\\WpfApp7.csproj|c:\\users\\robotcomp.ru\\source\\repos\\wpfapp5\\geometrically_wpf\\wpfapp7\\window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFC2FFEC-D449-405F-871F-C047125CAC05}|WpfApp7\\WpfApp7.csproj|solutionrelative:wpfapp7\\window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFC2FFEC-D449-405F-871F-C047125CAC05}|WpfApp7\\WpfApp7.csproj|c:\\users\\robotcomp.ru\\source\\repos\\wpfapp5\\geometrically_wpf\\wpfapp7\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EFC2FFEC-D449-405F-871F-C047125CAC05}|WpfApp7\\WpfApp7.csproj|solutionrelative:wpfapp7\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFC2FFEC-D449-405F-871F-C047125CAC05}|WpfApp7\\WpfApp7.csproj|c:\\users\\robotcomp.ru\\source\\repos\\wpfapp5\\geometrically_wpf\\wpfapp7\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFC2FFEC-D449-405F-871F-C047125CAC05}|WpfApp7\\WpfApp7.csproj|solutionrelative:wpfapp7\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\RobotComp.ru\\AppData\\Local\\Temp\\.vsdbgsrc\\ee34aec267e065140087abd7fd236fad482e6d3ee1f4162ad1b181c8d9923474\\XamlReader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EFC2FFEC-D449-405F-871F-C047125CAC05}|WpfApp7\\WpfApp7.csproj|c:\\users\\robotcomp.ru\\source\\repos\\wpfapp7\\wpfapp7\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFC2FFEC-D449-405F-871F-C047125CAC05}|WpfApp7\\WpfApp7.csproj|solutionrelative:wpfapp7\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EFC2FFEC-D449-405F-871F-C047125CAC05}|WpfApp7\\WpfApp7.csproj|c:\\users\\robotcomp.ru\\source\\repos\\wpfapp7\\wpfapp7\\var5.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{EFC2FFEC-D449-405F-871F-C047125CAC05}|WpfApp7\\WpfApp7.csproj|solutionrelative:wpfapp7\\var5.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EFC2FFEC-D449-405F-871F-C047125CAC05}|WpfApp7\\WpfApp7.csproj|c:\\users\\robotcomp.ru\\source\\repos\\wpfapp7\\wpfapp7\\wpfapp7.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{EFC2FFEC-D449-405F-871F-C047125CAC05}|WpfApp7\\WpfApp7.csproj|solutionrelative:wpfapp7\\wpfapp7.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EFC2FFEC-D449-405F-871F-C047125CAC05}|WpfApp7\\WpfApp7.csproj|c:\\users\\robotcomp.ru\\source\\repos\\wpfapp7\\wpfapp7\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{EFC2FFEC-D449-405F-871F-C047125CAC05}|WpfApp7\\WpfApp7.csproj|solutionrelative:wpfapp7\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EFC2FFEC-D449-405F-871F-C047125CAC05}|WpfApp7\\WpfApp7.csproj|c:\\users\\robotcomp.ru\\source\\repos\\wpfapp7\\wpfapp7\\window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFC2FFEC-D449-405F-871F-C047125CAC05}|WpfApp7\\WpfApp7.csproj|solutionrelative:wpfapp7\\window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EFC2FFEC-D449-405F-871F-C047125CAC05}|WpfApp7\\WpfApp7.csproj|c:\\users\\robotcomp.ru\\source\\repos\\wpfapp7\\wpfapp7\\var5.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFC2FFEC-D449-405F-871F-C047125CAC05}|WpfApp7\\WpfApp7.csproj|solutionrelative:wpfapp7\\var5.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EFC2FFEC-D449-405F-871F-C047125CAC05}|WpfApp7\\WpfApp7.csproj|c:\\users\\robotcomp.ru\\source\\repos\\wpfapp7\\wpfapp7\\inputwindow_var5.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFC2FFEC-D449-405F-871F-C047125CAC05}|WpfApp7\\WpfApp7.csproj|solutionrelative:wpfapp7\\inputwindow_var5.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EFC2FFEC-D449-405F-871F-C047125CAC05}|WpfApp7\\WpfApp7.csproj|c:\\users\\robotcomp.ru\\source\\repos\\wpfapp7\\wpfapp7\\inputwindow_var5.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{EFC2FFEC-D449-405F-871F-C047125CAC05}|WpfApp7\\WpfApp7.csproj|solutionrelative:wpfapp7\\inputwindow_var5.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EFC2FFEC-D449-405F-871F-C047125CAC05}|WpfApp7\\WpfApp7.csproj|c:\\users\\robotcomp.ru\\source\\repos\\wpfapp7\\wpfapp7\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{EFC2FFEC-D449-405F-871F-C047125CAC05}|WpfApp7\\WpfApp7.csproj|c:\\users\\robotcomp.ru\\source\\repos\\wpfapp5\\geometrically_wpf\\wpfapp7\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{EFC2FFEC-D449-405F-871F-C047125CAC05}|WpfApp7\\WpfApp7.csproj|solutionrelative:wpfapp7\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
@@ -53,7 +64,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -69,12 +80,51 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
+              "Title": "Microsoft.PackageDependencyResolution.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.403\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.403\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ViewState": "AgIAAPYAAAAAAAAAAAAowAkBAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-10-25T14:32:25.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WpfApp7.GlobalUsings.g.cs",
+              "DocumentMoniker": "C:\\Users\\RobotComp.ru\\source\\repos\\WpfApp5\\Geometrically_WPF\\WpfApp7\\obj\\Debug\\netcoreapp3.1\\WpfApp7.GlobalUsings.g.cs",
+              "RelativeDocumentMoniker": "WpfApp7\\obj\\Debug\\netcoreapp3.1\\WpfApp7.GlobalUsings.g.cs",
+              "ToolTip": "C:\\Users\\RobotComp.ru\\source\\repos\\WpfApp5\\Geometrically_WPF\\WpfApp7\\obj\\Debug\\netcoreapp3.1\\WpfApp7.GlobalUsings.g.cs",
+              "RelativeToolTip": "WpfApp7\\obj\\Debug\\netcoreapp3.1\\WpfApp7.GlobalUsings.g.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T14:31:33.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\RobotComp.ru\\source\\repos\\WpfApp5\\Geometrically_WPF\\WpfApp7\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "WpfApp7\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\RobotComp.ru\\source\\repos\\WpfApp5\\Geometrically_WPF\\WpfApp7\\AssemblyInfo.cs",
+              "RelativeToolTip": "WpfApp7\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T14:28:34.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "XamlReader.cs",
               "DocumentMoniker": "C:\\Users\\RobotComp.ru\\AppData\\Local\\Temp\\.vsdbgsrc\\ee34aec267e065140087abd7fd236fad482e6d3ee1f4162ad1b181c8d9923474\\XamlReader.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\ee34aec267e065140087abd7fd236fad482e6d3ee1f4162ad1b181c8d9923474\\XamlReader.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\ee34aec267e065140087abd7fd236fad482e6d3ee1f4162ad1b181c8d9923474\\XamlReader.cs",
               "ToolTip": "C:\\Users\\RobotComp.ru\\AppData\\Local\\Temp\\.vsdbgsrc\\ee34aec267e065140087abd7fd236fad482e6d3ee1f4162ad1b181c8d9923474\\XamlReader.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
-              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\ee34aec267e065140087abd7fd236fad482e6d3ee1f4162ad1b181c8d9923474\\XamlReader.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\ee34aec267e065140087abd7fd236fad482e6d3ee1f4162ad1b181c8d9923474\\XamlReader.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
               "ViewState": "AgIAAOsBAAAAAAAAAAAiwP4BAAACAAAAAQAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-21T18:09:20.934Z",
@@ -82,11 +132,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Users\\RobotComp.ru\\source\\repos\\WpfApp7\\WpfApp7\\App.xaml",
+              "DocumentMoniker": "C:\\Users\\RobotComp.ru\\source\\repos\\WpfApp5\\Geometrically_WPF\\WpfApp7\\App.xaml",
               "RelativeDocumentMoniker": "WpfApp7\\App.xaml",
-              "ToolTip": "C:\\Users\\RobotComp.ru\\source\\repos\\WpfApp7\\WpfApp7\\App.xaml",
+              "ToolTip": "C:\\Users\\RobotComp.ru\\source\\repos\\WpfApp5\\Geometrically_WPF\\WpfApp7\\App.xaml",
               "RelativeToolTip": "WpfApp7\\App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-10-21T18:03:30.933Z",
@@ -94,62 +144,62 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "WpfApp7",
-              "DocumentMoniker": "C:\\Users\\RobotComp.ru\\source\\repos\\WpfApp7\\WpfApp7\\WpfApp7.csproj",
+              "DocumentIndex": 8,
+              "Title": "WpfApp7.csproj",
+              "DocumentMoniker": "C:\\Users\\RobotComp.ru\\source\\repos\\WpfApp5\\Geometrically_WPF\\WpfApp7\\WpfApp7.csproj",
               "RelativeDocumentMoniker": "WpfApp7\\WpfApp7.csproj",
-              "ToolTip": "C:\\Users\\RobotComp.ru\\source\\repos\\WpfApp7\\WpfApp7\\WpfApp7.csproj",
+              "ToolTip": "C:\\Users\\RobotComp.ru\\source\\repos\\WpfApp5\\Geometrically_WPF\\WpfApp7\\WpfApp7.csproj",
               "RelativeToolTip": "WpfApp7\\WpfApp7.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-10-21T18:00:11.248Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
               "Title": "InputWindow_var5.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\RobotComp.ru\\source\\repos\\WpfApp7\\WpfApp7\\InputWindow_var5.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\RobotComp.ru\\source\\repos\\WpfApp5\\Geometrically_WPF\\WpfApp7\\InputWindow_var5.xaml.cs",
               "RelativeDocumentMoniker": "WpfApp7\\InputWindow_var5.xaml.cs",
-              "ToolTip": "C:\\Users\\RobotComp.ru\\source\\repos\\WpfApp7\\WpfApp7\\InputWindow_var5.xaml.cs",
+              "ToolTip": "C:\\Users\\RobotComp.ru\\source\\repos\\WpfApp5\\Geometrically_WPF\\WpfApp7\\InputWindow_var5.xaml.cs",
               "RelativeToolTip": "WpfApp7\\InputWindow_var5.xaml.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAA5wDQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAkwAUAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-21T16:51:11.32Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 0,
               "Title": "InputWindow_var5.xaml",
-              "DocumentMoniker": "C:\\Users\\RobotComp.ru\\source\\repos\\WpfApp7\\WpfApp7\\InputWindow_var5.xaml",
+              "DocumentMoniker": "C:\\Users\\RobotComp.ru\\source\\repos\\WpfApp5\\Geometrically_WPF\\WpfApp7\\InputWindow_var5.xaml",
               "RelativeDocumentMoniker": "WpfApp7\\InputWindow_var5.xaml",
-              "ToolTip": "C:\\Users\\RobotComp.ru\\source\\repos\\WpfApp7\\WpfApp7\\InputWindow_var5.xaml",
-              "RelativeToolTip": "WpfApp7\\InputWindow_var5.xaml",
+              "ToolTip": "C:\\Users\\RobotComp.ru\\source\\repos\\WpfApp5\\Geometrically_WPF\\WpfApp7\\InputWindow_var5.xaml*",
+              "RelativeToolTip": "WpfApp7\\InputWindow_var5.xaml*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-10-21T16:49:43.783Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "var5.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\RobotComp.ru\\source\\repos\\WpfApp7\\WpfApp7\\var5.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\RobotComp.ru\\source\\repos\\WpfApp5\\Geometrically_WPF\\WpfApp7\\var5.xaml.cs",
               "RelativeDocumentMoniker": "WpfApp7\\var5.xaml.cs",
-              "ToolTip": "C:\\Users\\RobotComp.ru\\source\\repos\\WpfApp7\\WpfApp7\\var5.xaml.cs",
+              "ToolTip": "C:\\Users\\RobotComp.ru\\source\\repos\\WpfApp5\\Geometrically_WPF\\WpfApp7\\var5.xaml.cs",
               "RelativeToolTip": "WpfApp7\\var5.xaml.cs",
-              "ViewState": "AgIAAEQAAAAAAAAAAAAIwFIAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAYwGwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-21T16:46:35.152Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "var5.xaml",
-              "DocumentMoniker": "C:\\Users\\RobotComp.ru\\source\\repos\\WpfApp7\\WpfApp7\\var5.xaml",
+              "DocumentMoniker": "C:\\Users\\RobotComp.ru\\source\\repos\\WpfApp5\\Geometrically_WPF\\WpfApp7\\var5.xaml",
               "RelativeDocumentMoniker": "WpfApp7\\var5.xaml",
-              "ToolTip": "C:\\Users\\RobotComp.ru\\source\\repos\\WpfApp7\\WpfApp7\\var5.xaml",
+              "ToolTip": "C:\\Users\\RobotComp.ru\\source\\repos\\WpfApp5\\Geometrically_WPF\\WpfApp7\\var5.xaml",
               "RelativeToolTip": "WpfApp7\\var5.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-10-21T16:46:10.446Z",
@@ -157,24 +207,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "Window1.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\RobotComp.ru\\source\\repos\\WpfApp7\\WpfApp7\\Window1.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\RobotComp.ru\\source\\repos\\WpfApp5\\Geometrically_WPF\\WpfApp7\\Window1.xaml.cs",
               "RelativeDocumentMoniker": "WpfApp7\\Window1.xaml.cs",
-              "ToolTip": "C:\\Users\\RobotComp.ru\\source\\repos\\WpfApp7\\WpfApp7\\Window1.xaml.cs",
+              "ToolTip": "C:\\Users\\RobotComp.ru\\source\\repos\\WpfApp5\\Geometrically_WPF\\WpfApp7\\Window1.xaml.cs",
               "RelativeToolTip": "WpfApp7\\Window1.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-21T16:36:55.855Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "Window1.xaml",
-              "DocumentMoniker": "C:\\Users\\RobotComp.ru\\source\\repos\\WpfApp7\\WpfApp7\\Window1.xaml",
+              "DocumentMoniker": "C:\\Users\\RobotComp.ru\\source\\repos\\WpfApp5\\Geometrically_WPF\\WpfApp7\\Window1.xaml",
               "RelativeDocumentMoniker": "WpfApp7\\Window1.xaml",
-              "ToolTip": "C:\\Users\\RobotComp.ru\\source\\repos\\WpfApp7\\WpfApp7\\Window1.xaml",
+              "ToolTip": "C:\\Users\\RobotComp.ru\\source\\repos\\WpfApp5\\Geometrically_WPF\\WpfApp7\\Window1.xaml",
               "RelativeToolTip": "WpfApp7\\Window1.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-10-21T16:32:32.497Z",
@@ -182,11 +232,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\RobotComp.ru\\source\\repos\\WpfApp7\\WpfApp7\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\RobotComp.ru\\source\\repos\\WpfApp5\\Geometrically_WPF\\WpfApp7\\MainWindow.xaml",
               "RelativeDocumentMoniker": "WpfApp7\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\RobotComp.ru\\source\\repos\\WpfApp7\\WpfApp7\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\RobotComp.ru\\source\\repos\\WpfApp5\\Geometrically_WPF\\WpfApp7\\MainWindow.xaml",
               "RelativeToolTip": "WpfApp7\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-10-21T16:27:06.899Z",
@@ -194,13 +244,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\RobotComp.ru\\source\\repos\\WpfApp7\\WpfApp7\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\RobotComp.ru\\source\\repos\\WpfApp5\\Geometrically_WPF\\WpfApp7\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "WpfApp7\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\RobotComp.ru\\source\\repos\\WpfApp7\\WpfApp7\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\RobotComp.ru\\source\\repos\\WpfApp5\\Geometrically_WPF\\WpfApp7\\MainWindow.xaml.cs",
               "RelativeToolTip": "WpfApp7\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAUwA8AAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAQwGkAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-21T16:27:04.591Z",
               "EditorCaption": ""

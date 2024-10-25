@@ -3,7 +3,6 @@ using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Media;
 using System.Windows.Shapes;
-using System.IO;
 
 namespace WpfApp7
 {
@@ -23,20 +22,31 @@ namespace WpfApp7
 
         private void miInput_Click(object sender, RoutedEventArgs e)
         {
-            InputWindow inputWindow = new InputWindow();
-            if (inputWindow.ShowDialog() == true)
-            {
-                radius = inputWindow.Radius;
-            }
+            // Скрыть картинку и текст Label, показать панель для ввода
+            canvas.Visibility = Visibility.Hidden;
+            name.Visibility = Visibility.Hidden;
+            inputPanel.Visibility = Visibility.Visible;
         }
 
         private void miCalc_Click(object sender, RoutedEventArgs e)
         {
             if (radius > 0)
             {
-                double area = Math.PI * Math.Pow(radius, 2);
-                double length = 2 * Math.PI * radius;
-                MessageBox.Show($"Область: {area}\nДлина: {length}", "Расчеты",MessageBoxButton.OK, MessageBoxImage.Information);
+                string resultMessage = "Результаты:\n";
+
+                if (SquareCheckBox.IsChecked == true)
+                {
+                    double area = Math.PI * Math.Pow(radius, 2);
+                    resultMessage += $"Площадь: {area}\n";
+                }
+
+                if (LengthCheckBox.IsChecked == true)
+                {
+                    double length = 2 * Math.PI * radius;
+                    resultMessage += $"Длина: {length}\n";
+                }
+
+                MessageBox.Show(resultMessage, "Расчеты", MessageBoxButton.OK, MessageBoxImage.Information);
             }
             else
             {
@@ -47,14 +57,10 @@ namespace WpfApp7
 
         private void miDraw_Click(object sender, RoutedEventArgs e)
         {
-           
             if (radius > 0 && radius * 2 <= canvas.ActualWidth && radius * 2 <= canvas.ActualHeight)
             {
-                if (name != null)
-                {
-                    Grid parentGrid = (Grid)name.Parent; // Получаем родительский контейнер
-                    parentGrid.Children.Remove(name); // Удаляем Label
-                }
+                // Скрываем Label, вместо его удаления
+                name.Visibility = Visibility.Collapsed;
 
                 canvas.Children.Clear();
                 Ellipse circle = new Ellipse
@@ -75,12 +81,27 @@ namespace WpfApp7
             }
         }
 
-        private void MenuItem_Click_1(object sender, RoutedEventArgs e)
-        {
 
+        private void OkButton_Click(object sender, RoutedEventArgs e)
+        {
+            if (double.TryParse(RadiusTextBox.Text, out double r) && r > 0)
+            {
+                radius = r;
+            
+                inputPanel.Visibility = Visibility.Hidden;
+                canvas.Visibility = Visibility.Visible;
+                name.Visibility = Visibility.Visible; 
+            }
+            else
+            {
+                MessageBox.Show("Пожалуйста, введите допустимый радиус.", "Ошибка",
+                                MessageBoxButton.OK, MessageBoxImage.Error);
+            }
         }
 
-        private void var5_Click(object sender, RoutedEventArgs e)
+    
+
+    private void var5_Click(object sender, RoutedEventArgs e)
         {
             var5 inputWindow = new var5();
             inputWindow.Show();
